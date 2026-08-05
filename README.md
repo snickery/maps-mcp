@@ -2,7 +2,7 @@
 
 An [MCP](https://modelcontextprotocol.io) server exposing Google Maps
 Platform to any MCP client: geocoding, place search/details,
-traffic-aware travel times, and time zones. Six tools, built on the
+traffic-aware travel times, and time zones. Seven tools, built on the
 [Python MCP SDK](https://github.com/modelcontextprotocol/python-sdk)
 (FastMCP). Runs as a local stdio server or as a containerized
 Streamable HTTP service with bearer auth.
